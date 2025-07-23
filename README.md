@@ -113,7 +113,3 @@ Optionnel : tu peux ajouter des captures d’écran du rendu sur desktop, tabl
 - Prends le temps de bien lire la documentation et d’explorer les exemples.
 - N’hésite pas à demander de l’aide ou à proposer des idées d’amélioration.
 - L’important est d’apprendre, de progresser et de livrer un code propre, accessible et maintenable.
-
-```
-
-```
